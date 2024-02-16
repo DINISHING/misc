@@ -1,69 +1,69 @@
 # 吳語姓氏轉寫表
 
-\*撇號已經省略。
+\*撇號省略。
 
-| 漢字 | 吳語羅馬字 | 吳語羅馬字二式 | 上海音（吳協式，老派） | 上海教會羅馬字 | 其他常見拼法 |
+| 漢字 | 吳語羅馬字 | 吳語羅馬字二式 | 上海話（吳協式，老派） | 上海教會羅馬字 | 其他常見拼法 |
 | ---- | ---------- | -------------- | ---------------------- | -------------- | ------------ |
 | 王   | yōng       | Yong           | yaon, waon             | Yaung, Waung   |              |
 | 李   | lì         | Li             | li                     | Li             | Lee          |
 | 張   | ciāng      | Chang          | tsan                   | Tsang          |              |
-| 劉   | liēu       | Lieu           | lieu                   | Lieu           |              |
-| 陳   | jin        | Djin           | zen                    | Dzung          |              |
+| 劉   | liēu       | Liu            | lieu                   | Lieu           |              |
+| 陳   | jin        | Djing          | zen                    | Dzung          |              |
 | 楊   | yāng       | Yang           | yan                    | Yang           |              |
 | 黃   | wōng       | Wong           | waon                   | Waung          |              |
-| 趙   | jiàu       | Djau           | zau                    | Dzau           |              |
+| 趙   | jiàu       | Djao           | zau                    | Dzau           |              |
 | 吳   | ngū, n̄g    | Ngu, Ng        | ng, wu                 | Ng, Oo         |              |
-| 周   | ciēu       | Cheu           | tseu                   | Tseu           |              |
-| 徐   | zī         | Zi             | zi                     | Zi             |              |
+| 周   | ciēu       | Chiu           | tseu                   | Tseu           | Chow         |
+| 徐   | zī         | Zi             | zi                     | Zi             | Zee          |
 | 孫   | sēn        | Sen            | sen                    | Sung           | Sun          |
 | 馬   | mò         | Mo             | mo                     | Mo             |              |
 | 朱   | ciū        | Chu            | tsyu                   | Tsu            |              |
 | 胡   | wū         | Wu             | wu                     | Oo             |              |
-| 郭   | kok        | Kok            | kaoh                   | Kauh           |              |
+| 郭   | kuok       | Kwoh           | kaoh                   | Kauh           | Kwok         |
 | 何   | ghōu       | Ou             | wu                     | Oo             |              |
-| 林   | līn        | Lin            | lin                    | Ling           |              |
-| 羅   | lōu        | Lou            | lu                     | Loo            |              |
-| 高   | kāu        | Kau            | kau                    | Kau            |              |
+| 林   | līn        | Ling           | lin                    | Ling           |              |
+| 羅   | lōu        | Lou            | lu                     | Loo            | Lo           |
+| 高   | kāu        | Kao            | kau                    | Kau            |              |
 | 鄭   | jíng       | Djing          | zen                    | Dzung          |              |
 | 梁   | liāng      | Liang          | liang                  | Liang          |              |
 | 謝   | ziá        | Zia            | zia                    | Zia            |              |
-| 宋   | súng       | Sung           | son                    | Song           |              |
+| 宋   | súng       | Soong          | son                    | Song           |              |
 | 唐   | dōng       | Dong           | daon                   | Daung          |              |
-| 許   | hiù        | Hyui           | shiu                   | Hyui           |              |
-| 韓   | ghōe       | Oe             | ghoe                   | Oen            |              |
+| 許   | Hèi        | Hei            | shiu                   | Hyui           | Hui          |
+| 韓   | ghōe       | Oen            | ghoe                   | Oen            |              |
 | 鄧   | déng       | Deng           | den                    | Dung           |              |
-| 馮   | vūng       | Vung           | von                    | Vong           |              |
-| 曹   | zāu        | Zau            | zau                    | Zau            |              |
+| 馮   | vūng       | Voong          | von                    | Vong           |              |
+| 曹   | zāu        | Zao            | zau                    | Zau            |              |
 | 彭   | bāng       | Bang           | ban                    | Bang           |              |
 | 曾   | tzēng      | Tseng          | tsen                   | Tsung          |              |
-| 蕭   | siāu       | Siau           | siau                   | Siau           |              |
-| 田   | diāe       | Diae           | Die                    | Dien           |              |
-| 董   | tùng       | Tung           | ton                    | tong           |              |
-| 潘   | phōe       | Poe            | phoe                   | Poe            |              |
-| 袁   | yōe        | Yoe            | yoe                    | Yoen           |              |
+| 蕭   | siāu       | Siao           | siau                   | Siau           |              |
+| 田   | diāe       | Dien           | Die                    | Dien           |              |
+| 董   | tùng       | Toong          | ton                    | tong           |              |
+| 潘   | phōe       | Poen           | phoe                   | Poe            |              |
+| 袁   | yōe        | Yoen           | yoe                    | Yoen           | Yuen         |
 | 蔡   | tsá        | Tsa            | tsa                    | Tsa            |              |
 | 蔣   | tziàng     | Tsiang         | tsian                  | Tsiang         |              |
-| 余   | yū         | Yui            | yu                     | Yui            |              |
+| 余   | yī         | Yi             | yu                     | Yui            |              |
 | 于   | yū         | Yui            | yu                     | Yui            |              |
 | 杜   | dù         | Du             | du                     | Doo            | Dou          |
 | 葉   | yih        | Yih            | yih                    | Yih            |              |
 | 程   | jīng       | Djing          | zen                    | Dzung          |              |
 | 魏   | ngiú       | Nyui           | we                     | We             |              |
 | 蘇   | sū         | Su             | su                     | Soo            |              |
-| 呂   | liù        | Lui            | liu                    | Lui            |              |
+| 呂   | lì         | Li             | liu                    | Lui            |              |
 | 丁   | tīng       | Ting           | tin                    | Ting           |              |
-| 任   | nīn        | Nin            | nyin                   | Nyung          |              |
+| 任   | nīn        | Ning           | nyin                   | Nyung          |              |
 | 盧   | lū         | Lu             | lu                     | Loo            |              |
-| 姚   | yāu        | Yau            | yau                    | Yau            |              |
+| 姚   | yāu        | Yao            | yau                    | Yau            |              |
 | 沈   | shìn       | Shin           | sen                    | Sung           |              |
 | 鍾   | ciūng      | Chung          | tson                   | Tsong          |              |
 | 姜   | kiāng      | Kyang          | tsian                  | Tsiang         |              |
-| 崔   | tsēi       | Tsei           | tshoe                  | Tshoe          |              |
-| 譚   | dē         | De             | dae                    | Den            |              |
-| 陸   | luk        | Luk            | loh                    | Lok            |              |
-| 范   | vàe        | Vae            | vae                    | Van            |              |
-| 汪   | uōng, iōng | Uong, Iong     | uaon                   | Waung          |              |
-| 廖   | liáu       | Liau           | liau                   | liau           |              |
+| 崔   | tsēi       | Tsei           | tshoe                  | Tshoe          | Tsui         |
+| 譚   | dē         | Den            | dae                    | Den            |              |
+| 陸   | luk        | Looh           | loh                    | Lok            |              |
+| 范   | vàe        | Van            | vae                    | Van            |              |
+| 汪   | uōng, iōng | Wong, Iong     | uaon                   | Waung          |              |
+| 廖   | liáu       | Liao           | liau                   | liau           |              |
 | 石   | zhiak      | Jak            | zah                    | Zak            |              |
 | 金   | kīn        | Kyin           | cin                    | kyung          |              |
 | 韋   | yū, wēi    | Yui, Wei       | we                     | We             |              |
@@ -79,28 +79,28 @@
 | 邱   | khiēu      | Kyeu           | chieu                  | Kyeu           |              |
 | 侯   | ghēu       | Eu             | gheu                   | Eu             |              |
 | 江   | kōng       | Kong           | kaon                   | kaung          |              |
-| 尹   | yùn        | Yuin           | in                     | Iung           |              |
+| 尹   | yùn        | Yuing          | in                     | Iung           | Yin          |
 | 薛   | sih        | Sih            | sih                    | sih            |              |
-| 閻   | yē         | Ye             | nyie                   | Nyien          |              |
-| 段   | dóe        | Doe            | doe                    | Doen           |              |
+| 閻   | yē         | Yen            | nyie                   | Nyien          |              |
+| 段   | dóe        | Doen           | doe                    | Doen           | Duen         |
 | 雷   | lēi        | Lei            | le                     | Le             |              |
-| 龍   | lūng       | Lung           | lon                    | Long           |              |
+| 龍   | lūng       | Loong          | lon                    | Long           |              |
 | 黎   | lī         | Li             | li                     | Li             |              |
 | 史   | sỳ         | Sz             | sy                     | S              |              |
-| 陶   | dāu        | Dau            | dau                    | Dau            |              |
+| 陶   | dāu        | Dao            | dau                    | Dau            |              |
 | 賀   | ghóu       | Ou             | wu                     | Oo             |              |
-| 毛   | māu        | Mau            | mau                    | Mau            |              |
-| 郝   | hok        | Hok            | haoh                   | Hauh           |              |
+| 毛   | māu        | Mao            | mau                    | Mau            |              |
+| 郝   | hok        | Hoh            | haoh                   | Hauh           |              |
 | 顧   | kú         | Ku             | ku                     | Koo            |              |
-| 龔   | kiūng      | Kyung          | cion                   | Kyong          |              |
-| 邵   | zhiáu      | Jau            | zau                    | Zau            |              |
-| 萬   | máe        | Mae            | vae                    | Van            |              |
-| 覃   |            |                |                        |                |              |
-| 武   | mù         | Mu             | vu                     | Voo            |              |
-| 錢   | ziē        | Zie            | zie                    | Dzien          |              |
-| 戴   | tái        | Tai            | te                     | Te             |              |
-| 嚴   | ngiē       | Nye            | nyie                   | Nyien          |              |
-| 莫   | mok        | Mok            | maoh                   | mauh           |              |
-| 孔   | khùng      | Kung           | khon                   | Kong           |              |
+| 龔   | kiūng      | Kyoong         | cion                   | Kyong          |              |
+| 邵   | zhiáu      | Jao            | zau                    | Zau            |              |
+| 萬   | máe        | Man            | vae                    | Van            |              |
+| 覃   | zīn        | Zing           | zin                    | zing           |              |
+| 武   | vù         | Vu             | vu                     | Voo            | Moo          |
+| 錢   | ziē        | Zien           | zie                    | Dzien          |              |
+| 戴   | tái        | Tae            | te                     | Te             |              |
+| 嚴   | ngiē       | Nyien          | nyie                   | Nyien          |              |
+| 莫   | mok        | Moh            | maoh                   | mauh           |              |
+| 孔   | khùng      | Koong          | khon                   | Kong           |              |
 | 向   | hiáng      | Hyang          | shian                  | Hyang          |              |
 | 常   | zhiāng     | Jang           | zan                    | Dzang          |              |
